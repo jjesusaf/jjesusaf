@@ -1,7 +1,7 @@
 <div align="center">
   
-# 👋 Hi, I'm Jesus Acevedo
-### Senior Full Stack Developer | Web3 Architect | Agricultural Technology Innovator
+# 👋 Hi, I'm Jesus Flores
+### Senior Full Stack Developer | Web3 Architect | Enterprise Solutions Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Developer;Next.js+%26+NestJS+Expert;Web3+%26+Blockchain+Architect;Building+Enterprise+Solutions)](https://git.io/typing-svg)
 
@@ -13,11 +13,11 @@
 
 I'm a senior software engineer specializing in building complex enterprise applications that bridge traditional business operations with cutting-edge blockchain technology. With deep expertise in modern TypeScript ecosystems and Web3 infrastructure, I architect and develop scalable solutions that solve real-world business challenges.
 
-- 🔭 Currently architecting **agricultural management systems** and **Web3 wallet infrastructure**
+- 🔭 Currently architecting **enterprise management systems** and **Web3 wallet infrastructure**
 - 🌱 Leading development of **AI-powered chatbots**, **DeFi integrations**, and **browser extensions**
-- 💼 Building **enterprise SaaS platforms** for nursery management and **blockchain tokenization systems**
+- 💼 Building **enterprise SaaS platforms** with **blockchain tokenization** and **payment systems**
 - 🌍 Bilingual: **Spanish** & **English**
-- ⚡ Fun fact: I combine agricultural domain expertise with modern software architecture
+- ⚡ Fun fact: I combine domain expertise across diverse industries with modern software architecture
 
 ---
 
@@ -38,7 +38,7 @@ I'm a senior software engineer specializing in building complex enterprise appli
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -89,16 +89,16 @@ I'm a senior software engineer specializing in building complex enterprise appli
 ## 🔥 Featured Projects
 
 ### 🌱 ProFlores Business Platform
-> Enterprise nursery management system with blockchain integration for agricultural operations.
+> Enterprise resource planning system with blockchain integration for specialized operations.
 
 **Tech Stack:** Next.js 16, NestJS, PostgreSQL, TypeORM, Supabase, GraphQL, MercadoPago, OpenAI
 
 **Features:**
-- Complete inventory management for plants and containers
+- Complete inventory management system with multi-location support
 - Advanced budgeting system with APU (Unit Price Analysis)
 - Mexican fiscal compliance (CFDI 4.0)
-- Blockchain tokenization of harvests (ERC-721 NFTs)
-- AI-powered technical sheets generation
+- Blockchain tokenization for asset tracking (ERC-721 NFTs)
+- AI-powered document generation and analysis
 - Real-time expense tracking and financial management
 
 ### 🦜 Sherry AI Chat Platform
@@ -135,16 +135,17 @@ I'm a senior software engineer specializing in building complex enterprise appli
 - Social login integration (Apple, Google)
 - Native performance with Expo Router
 
-### ⚡ HyperSDK Implementation
-> High-performance blockchain framework implementation for custom chains.
+### 🎨 SLinks Component Library & SDK
+> Comprehensive Web3 component library and SDK for building decentralized applications.
 
-**Tech Stack:** Go 1.23, Avalanche HyperSDK, GRPC, Pebble DB, WebSocket
+**Tech Stack:** TypeScript, React 18, Wagmi, Viem, TailwindCSS, Web Components
 
 **Features:**
-- Custom blockchain implementation
-- High-throughput transaction processing
-- Prometheus metrics integration
-- WebSocket real-time data streaming
+- Reusable Web3 UI components (widgets, triggers, forms)
+- Multi-chain wallet adapters and connectors
+- Action Kit SDK for mini-app development
+- Browser extension integration tools
+- Social platform embedding (Twitter/X, YouTube, Twitch)
 
 ---
 
@@ -172,23 +173,24 @@ const jesus = {
         backend: ["NestJS", "Node.js", "FastAPI", "GraphQL", "REST APIs"],
         blockchain: ["Solidity", "Hardhat", "Wagmi", "Viem", "Web3.js", "Avalanche"],
         databases: ["PostgreSQL", "TypeORM", "Drizzle ORM", "Supabase", "Redis"],
-        ai: ["OpenAI", "Anthropic Claude", "AI SDK", "LangChain"],
+        ai: ["OpenAI", "Anthropic Claude", "xAI Grok", "AI SDK"],
         mobile: ["React Native", "Expo", "NativeWind"],
-        devOps: ["Docker", "GitHub Actions", "Vercel", "AWS"]
+        devOps: ["Docker", "GitHub Actions", "Vercel", "Render"]
     },
     currentProjects: {
-        proflores: "Agricultural management platform with blockchain",
+        proflores: "Enterprise resource planning with blockchain",
         sherry: "AI-powered Web3 ecosystem",
+        slinks: "Web3 component library and SDK",
         core: "Browser extension wallet infrastructure"
     },
     architecture: [
         "Microservices",
-        "Event-driven",
-        "Domain-driven design",
-        "Clean architecture",
-        "CQRS pattern"
+        "Monorepo management", 
+        "Component-driven development",
+        "Event-driven architecture",
+        "Clean architecture"
     ],
-    interests: ["DeFi", "Agricultural Technology", "AI Integration", "System Architecture"],
+    interests: ["DeFi", "Enterprise Solutions", "AI Integration", "System Architecture"],
     challenge: "Building enterprise-grade systems that bridge Web2 and Web3"
 };
 ```
@@ -220,7 +222,7 @@ const jesus = {
 
 <div align="center">
   
-### 💡 "Engineering solutions where agriculture meets blockchain innovation"
+### 💡 "Engineering enterprise solutions at the intersection of Web3 and AI"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jjesusaf&color=2ECC71&style=for-the-badge)
 
