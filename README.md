@@ -16,7 +16,6 @@ I'm a senior software engineer specializing in building complex enterprise appli
 - 🔭 Currently architecting **enterprise management systems** and **Web3 wallet infrastructure**
 - 🌱 Leading development of **AI-powered chatbots**, **DeFi integrations**, and **browser extensions**
 - 💼 Building **enterprise SaaS platforms** with **blockchain tokenization** and **payment systems**
-- 🌍 Bilingual: **Spanish** & **English**
 - ⚡ Fun fact: I combine domain expertise across diverse industries with modern software architecture
 
 ---
