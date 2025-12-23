@@ -27,11 +27,11 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjesusaf&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&bg_color=0D1117&icon_color=A78BFA&text_color=C9D1D9&title_color=A78BFA" height="150" alt="stats graph" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjesusaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&hide_title=true&count_private=true)
 
-<img src="https://streak-stats.demolab.com?user=jjesusaf&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3&bg_color=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="150" alt="streak graph" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjesusaf&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjesusaf/jjesusaf/output/github-contribution-grid-snake-dark.svg">
