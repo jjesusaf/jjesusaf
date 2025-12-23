@@ -27,11 +27,12 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjesusaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&hide_title=true&count_private=true)
+<a href="https://github.com/jjesusaf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjesusaf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjesusaf&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjesusaf&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
-
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjesusaf/jjesusaf/output/github-contribution-grid-snake-dark.svg">
