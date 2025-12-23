@@ -1,71 +1,37 @@
 <div align="center">
 
 # Jesús Acevedo
-### Full Stack Developer • Web3 Architect
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+enterprise+solutions+with+TypeScript;Architecting+decentralized+applications;Bridging+Web2+and+Web3+ecosystems)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twoWave" width="100%"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+Architect;TypeScript+Enthusiast)](https://git.io/typing-svg)
 
----
+<br/>
 
-## Tech Stack
-```typescript
-const stack = {
-  frontend: ["Next.js", "React", "TypeScript", "TailwindCSS"],
-  backend: ["NestJS", "PostgreSQL", "TypeORM", "GraphQL"],
-  web3: ["Solidity", "Hardhat", "Wagmi", "Viem"],
-  mobile: ["React Native", "Expo"],
-  ai: ["OpenAI", "Anthropic Claude", "Vercel AI SDK"]
-}
-```
-
-## Featured Work
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
-
-**ProFlores Platform**  
-Enterprise resource planning with blockchain tokenization
-
-*Next.js • NestJS • PostgreSQL • ERC-721*
-
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript" /><br/>
+<sub><b>Frontend</b></sub>
 </td>
-<td width="50%">
-
-**Sherry AI**  
-Conversational AI platform with Web3 integration
-
-*Next.js 15 • AI SDK • Drizzle • Multi-chain*
-
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" /><br/>
+<sub><b>Backend</b></sub>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-**SLinks SDK**  
-Component library for decentralized applications
-
-*React • TypeScript • Web Components • Wagmi*
-
-</td>
-<td width="50%">
-
-**Core Wallet**  
-Non-custodial browser extension for Avalanche
-
-*Chrome Extension • React • Avalanche SDK*
-
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,docker" /><br/>
+<sub><b>Web3 & DevOps</b></sub>
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jjesusaf&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&bg_color=0D1117&icon_color=A78BFA&text_color=C9D1D9&title_color=A78BFA" height="150" alt="stats graph" />
 
-![](https://github-readme-stats.vercel.app/api?username=jjesusaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&hide_title=true&count_private=true)
+<img src="https://streak-stats.demolab.com?user=jjesusaf&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3&bg_color=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="150" alt="streak graph" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjesusaf/jjesusaf/output/github-contribution-grid-snake-dark.svg">
@@ -73,14 +39,14 @@ Non-custodial browser extension for Avalanche
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jjesusaf/jjesusaf/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twoWave" width="100%"/>
 
-<div align="center">
+<sub>Building the future, one commit at a time</sub>
 
-**[LinkedIn](#)** • **[Email](#)** • **[Portfolio](#)**
+<br/>
 
-![](https://komarev.com/ghpvc/?username=jjesusaf&color=6366f1&style=flat-square)
+![](https://komarev.com/ghpvc/?username=jjesusaf&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
