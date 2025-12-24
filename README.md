@@ -19,8 +19,8 @@
 <sub><b>Backend</b></sub>
 </td>
 <td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,docker" /><br/>
-<sub><b>Web3 & DevOps</b></sub>
+<img src="https://skillicons.dev/icons?i=solidity,gcp,aws" /><br/>
+<sub><b>Web3 & Cloud</b></sub>
 </td>
 </tr>
 </table>
