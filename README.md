@@ -30,9 +30,7 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjesusaf&theme=dark)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com?user=jjesusaf&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -84,3 +82,10 @@
 ![](https://komarev.com/ghpvc/?username=jjesusaf&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+```
+
+## Cambios Clave (Parámetros Correctos):
+
+La URL correcta según la documentación oficial es:
+```
+https://streak-stats.demolab.com?user=jjesusaf&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9
