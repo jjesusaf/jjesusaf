@@ -30,23 +30,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjesusaf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jjesusaf&theme=algolia&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+  <a href="https://github.com/jjesusaf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjesusaf&show_icons=true&theme=algolia&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github&cache_seconds=1800"/>
+  </a>
+  <a href="https://github.com/jjesusaf">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jjesusaf&theme=algolia&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+  </a>
 </p>
 
-<details>
-  <summary>📈 Recent GitHub Activity</summary>
-  <br/>
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-</details>
-
-<br/>
+<p align="center">
+  <a href="https://github.com/jjesusaf">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjesusaf&layout=compact&langs_count=10&theme=algolia&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide=html,css&cache_seconds=1800"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjesusaf&layout=compact&langs_count=10&theme=algolia&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+  <sub>💼 Public repos • Also developing with Python, FastAPI & Web3 in private enterprise projects</sub>
 </p>
 
 <br/><br/>
