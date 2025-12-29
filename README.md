@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twoWave" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+Architect;TypeScript+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+%26+Python+Architect;TypeScript+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,11 +15,11 @@
 <sub><b>Frontend</b></sub>
 </td>
 <td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" /><br/>
+<img src="https://skillicons.dev/icons?i=python,nodejs,nestjs" /><br/>
 <sub><b>Backend</b></sub>
 </td>
 <td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=solidity,gcp,aws" /><br/>
+<img src="https://skillicons.dev/icons?i=solidity,postgres,gcp" /><br/>
 <sub><b>Web3 & Cloud</b></sub>
 </td>
 </tr>
@@ -27,10 +27,10 @@
 
 <br/>
 
-<a href="https://github.com/jjesusaf">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jjesusaf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jjesusaf&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-</a>
+## 📊 GitHub Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/><br/>
 
@@ -51,3 +51,14 @@
 ![](https://komarev.com/ghpvc/?username=jjesusaf&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+```
+
+### **Paso 4: Crear el GitHub Action**
+
+1. En tu repo `jjesusaf/jjesusaf`, crea esta estructura de carpetas:
+```
+jjesusaf/
+├── .github/
+│   └── workflows/
+│       └── update-stats.yml
+└── README.md
