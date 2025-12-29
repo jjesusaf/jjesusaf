@@ -29,8 +29,25 @@
 
 ## 📊 GitHub Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjesusaf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jjesusaf&theme=algolia&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+</p>
+
+<details>
+  <summary>📈 Recent GitHub Activity</summary>
+  <br/>
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+</details>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjesusaf&layout=compact&langs_count=10&theme=algolia&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+</p>
 
 <br/><br/>
 
