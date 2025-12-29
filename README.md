@@ -51,14 +51,3 @@
 ![](https://komarev.com/ghpvc/?username=jjesusaf&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-```
-
-### **Paso 4: Crear el GitHub Action**
-
-1. En tu repo `jjesusaf/jjesusaf`, crea esta estructura de carpetas:
-```
-jjesusaf/
-├── .github/
-│   └── workflows/
-│       └── update-stats.yml
-└── README.md
