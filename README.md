@@ -20,7 +20,7 @@
 </td>
 <td align="center" width="200">
 <img src="https://skillicons.dev/icons?i=solidity,postgres,gcp" /><br/>
-<sub><b>Web3 & Cloud</b></sub>
+<sub><b>Web3 & Cloud Devops</b></sub>
 </td>
 </tr>
 </table>
