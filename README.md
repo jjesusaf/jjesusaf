@@ -8,25 +8,6 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript" /><br/>
-<sub><b>Frontend</b></sub>
-</td>
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=python,nodejs,nestjs" /><br/>
-<sub><b>Backend</b></sub>
-</td>
-<td align="center" width="200">
-<img src="https://skillicons.dev/icons?i=solidity,postgres,gcp" /><br/>
-<sub><b>Web3 & Cloud</b></sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -54,14 +35,6 @@
 <p align="center">
   <sub>💼 Building full-stack applications • Web3 protocols • Enterprise Python solutions</sub>
 </p>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjesusaf/jjesusaf/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jjesusaf/jjesusaf/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jjesusaf/jjesusaf/output/github-contribution-grid-snake.svg">
-</picture>
 
 <br/><br/>
 
