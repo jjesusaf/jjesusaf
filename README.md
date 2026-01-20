@@ -27,14 +27,6 @@
 
 <br/>
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jjesusaf&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
