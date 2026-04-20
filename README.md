@@ -1,15 +1,22 @@
-<div align="center">
+ # Jesús Acevedo                                                                  
+                                                 
+  Full-stack engineer and founder building DeFi infrastructure,                    
+  AI agents, and business software from Mexico City.                               
+                                                                                   
+  ## What I'm building
 
-# Jesús Acevedo
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twoWave" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+%26+Python+Architect;TypeScript+Enthusiast)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twoWave" width="100%"/>
-
-<sub>Building the future, one commit at a time</sub>
-
-![](https://komarev.com/ghpvc/?username=jjesusaf&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+  - **[Relayer](https://relayer.fi)** — B2B OTC crypto exchange. Multi-chain       
+    signing via Turnkey, Uniswap v4, Aave, AI agent layer.
+  - **[Viveros Proflores](https://proflores.app)** — Business platform for         
+    landscape nurseries. Built solo. NestJS + Next.js + Mastra AI agents + MCP.
+  - **XBridge** — Scheduled on-chain USDC payments using Safe's                    
+  - **Bofet** — Prediction market trading on Polymarket with
+    Magic Link + Safe wallets.                                                     
+                                                                                                                                               
+  ---
+     
+  [LinkedIn](https://linkedin.com/in/jesus-acevedo-flores) ·
+  [Relayer](https://relayer.fi) ·                                                  
+  [Proflores](https://proflores.app)
+                                                                                   
+  --- 
