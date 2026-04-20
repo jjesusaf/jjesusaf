@@ -1,7 +1,6 @@
  # Jesús Acevedo                                                                  
                                                  
-  Full-stack engineer and founder building DeFi infrastructure,                    
-  AI agents, and business software from Mexico City.                               
+  Full-stack engineer and founder building DeFi infrastructure, AI agents, and business software from Mexico City.                               
                                                                                    
   ## What I'm building
 
