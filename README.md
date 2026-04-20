@@ -18,5 +18,7 @@
   [LinkedIn](https://linkedin.com/in/jesus-acevedo-flores) ·
   [Relayer](https://relayer.fi) ·                                                  
   [Proflores](https://proflores.app)
+  [Xbridge](https://xbdrige.lat)
+  [Bofet](https://usebofet.com)
                                                                                    
   --- 
